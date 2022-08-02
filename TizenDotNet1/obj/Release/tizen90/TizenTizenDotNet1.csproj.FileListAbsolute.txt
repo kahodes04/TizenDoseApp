@@ -1,0 +1,11 @@
+C:\Users\Guillermo\Desktop\projects\TizenDotNet1\TizenDotNet1\bin\Release\tizen90\tpkroot\bin\TizenDotNet1.dll
+C:\Users\Guillermo\Desktop\projects\TizenDotNet1\TizenDotNet1\bin\Release\tizen90\tpkroot\bin\Tizen.Wearable.CircularUI.Forms.Renderer.dll
+C:\Users\Guillermo\Desktop\projects\TizenDotNet1\TizenDotNet1\bin\Release\tizen90\tpkroot\bin\Tizen.Wearable.CircularUI.Forms.dll
+C:\Users\Guillermo\Desktop\projects\TizenDotNet1\TizenDotNet1\bin\Release\tizen90\tpkroot\bin\Xamarin.Forms.Core.dll
+C:\Users\Guillermo\Desktop\projects\TizenDotNet1\TizenDotNet1\bin\Release\tizen90\tpkroot\bin\Xamarin.Forms.Platform.Tizen.dll
+C:\Users\Guillermo\Desktop\projects\TizenDotNet1\TizenDotNet1\bin\Release\tizen90\tpkroot\bin\Xamarin.Forms.Platform.dll
+C:\Users\Guillermo\Desktop\projects\TizenDotNet1\TizenDotNet1\bin\Release\tizen90\tpkroot\bin\Xamarin.Forms.Xaml.dll
+C:\Users\Guillermo\Desktop\projects\TizenDotNet1\TizenDotNet1\bin\Release\tizen90\tpkroot\TizenDotNet1.deps.json
+C:\Users\Guillermo\Desktop\projects\TizenDotNet1\TizenDotNet1\bin\Release\tizen90\tpkroot\shared\res\TizenDotNet1.png
+C:\Users\Guillermo\Desktop\projects\TizenDotNet1\TizenDotNet1\bin\Release\tizen90\tpkroot\tizen-manifest.xml
+C:\Users\Guillermo\Desktop\projects\TizenDotNet1\TizenDotNet1\bin\Release\tizen90\org.tizen.example.TizenDotNet1-1.0.0.tpk

@@ -1,0 +1,10 @@
+C:\Users\Guillermo\Desktop\projects\TizenDotNet1\TizenDotNet1\bin\Release\tizen90\TizenDotNet1.deps.json
+C:\Users\Guillermo\Desktop\projects\TizenDotNet1\TizenDotNet1\bin\Release\tizen90\TizenDotNet1.dll
+C:\Users\Guillermo\Desktop\projects\TizenDotNet1\TizenDotNet1\obj\Release\tizen90\TizenDotNet1.csproj.AssemblyReference.cache
+C:\Users\Guillermo\Desktop\projects\TizenDotNet1\TizenDotNet1\obj\Release\tizen90\TizenDotNet1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guillermo\Desktop\projects\TizenDotNet1\TizenDotNet1\obj\Release\tizen90\MainPage.xaml.g.cs
+C:\Users\Guillermo\Desktop\projects\TizenDotNet1\TizenDotNet1\obj\Release\tizen90\TizenDotNet1.AssemblyInfoInputs.cache
+C:\Users\Guillermo\Desktop\projects\TizenDotNet1\TizenDotNet1\obj\Release\tizen90\TizenDotNet1.AssemblyInfo.cs
+C:\Users\Guillermo\Desktop\projects\TizenDotNet1\TizenDotNet1\obj\Release\tizen90\TizenDotNet1.csproj.CoreCompileInputs.cache
+C:\Users\Guillermo\Desktop\projects\TizenDotNet1\TizenDotNet1\obj\Release\tizen90\XamlC.stamp
+C:\Users\Guillermo\Desktop\projects\TizenDotNet1\TizenDotNet1\obj\Release\tizen90\TizenDotNet1.dll

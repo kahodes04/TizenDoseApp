@@ -1,0 +1,17 @@
+import("$tizen_core/build/dotnet/project.gni")
+
+dotnet_project("TizenDotNet1") {
+  
+   
+  csprojpath = "TizenDotNet1.csproj"
+  is_dep = false
+  files = [
+      "TizenDotNet1.csproj",
+      "TizenDotNet1.cs",
+      "App.cs",
+      "tizen-manifest.xml",
+      "shared/res/TizenDotNet1.png",
+  ]
+  deps = [
+  ]
+}

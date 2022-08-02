@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TizenDotNet1.MainPage">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand">
+            <Label x:Name="labelDate" Text="month day" HorizontalTextAlignment="Center"/>
+            <Label x:Name="labelDose"  Text="dose" HorizontalTextAlignment="Center"/>
+            <Entry x:Name="entry" Keyboard="Numeric" Text="" Unfocused="OnUnfocused" TextChanged="OnTextChanged" />
+            <StackLayout Margin="10"
+                 Orientation="Horizontal"
+                 HorizontalOptions="CenterAndExpand">
+                <Button x:Name="buttonMinusDay" Text="&lt;" Clicked="OnButtonMinusDay"/>
+                <Button x:Name="buttonConfirm" Text="Save" Clicked="OnButtonConfirm"/>
+                <Button x:Name="buttonPlusDay" Text=">" Clicked="OnButtonPlusDay"/>
+            </StackLayout>
+            <Button x:Name="buttonSynchronize" Text="Synchronize" Clicked="OnButtonSynchronize"/>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
